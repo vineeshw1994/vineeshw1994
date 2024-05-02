@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineeshw1994&label=Profile%20views&color=0e75b6&style=flat" alt="vineeshw1994" /> </p>
 
-- 🌱 I’m currently learning **React, TailwindCSS, TypeScript,NextJS**
+- 🌱 I’m currently learning Devops**
 
-- 💬 Ask me about **React , JavaScript**
+- 💬 Ask me about **React , JavaScript, React Native**
 
 - 📫 How to reach me **vineeshw1994@gmail.com**
 
