@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineeshw1994&label=Profile%20views&color=0e75b6&style=flat" alt="vineeshw1994" /> </p>
 
-- 🌱 I’m currently learning Devops**
+- 🌱 I’m currently Full-Stack DevOps Engineer**
 
 - 💬 Ask me about **React , JavaScript, React Native**
 
