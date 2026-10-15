@@ -1,18 +1,20 @@
+<h1 align="center">Hi 👋, I'm Vineesh</h1>
+<h3 align="center">Full-Stack DevOps Engineer | MERN Developer | AI Explorer 🤖</h3>
 
-**Philosophy:** *Understand the math → Build the brain → Teach the baby.*
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <!-- your existing tool icons stay exactly as-is -->
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineeshw1994&label=Profile%20views&color=0e75b6&style=flat" alt="vineeshw1994" /> </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineeshw1994&show_icons=true&locale=en&layout=compact" alt="vineeshw1994" /></p>
+- 💼 Currently working as a **Full-Stack DevOps Engineer**
+- 🧠 Learning **AI from the core** — building my own model from scratch (no black boxes)
+- 🌱 Currently mastering: **Regression → Neural Networks → Deep Learning → Transformers**
+- 💬 Ask me about **React, JavaScript, React Native, Node.js, DevOps**
+- 📫 Reach me at **vineeshw1994@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineeshw1994&show_icons=true&locale=en" alt="vineeshw1994" /></p>
+---
+
+### 🧠 My AI Learning Journey
+
+> Building my own tiny AI model (BabyAI) from scratch — math first, code second.
